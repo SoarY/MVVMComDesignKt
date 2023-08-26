@@ -32,7 +32,7 @@ android {
 }
 
 dependencies {
-    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    api fileTree(include: ['*.jar'], dir: 'libs')
 
     api authority.ktxCore
     //公用的support相关库在base中依赖

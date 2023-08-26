@@ -13,7 +13,7 @@ open class RouteConstants {
         companion object {
             const val SIGN = "/sign"
             //登录界面
-            const val SIGN_LOGIN = "$SIGN/login"
+            const val SIGN_LOGIN = SIGN+"/login"
         }
     }
 
