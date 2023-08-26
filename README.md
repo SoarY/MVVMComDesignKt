@@ -5,7 +5,7 @@
 
 此项目为Kotlin版
 
-###其他版本请查看<br>
+### 其他版本请查看<br>
 [JAVA+MVP版][5]<br>
 [JAVA+MVVM版][6]
 
