@@ -6,8 +6,8 @@
 此项目为Kotlin版
 
 其他版本请查看
-[JAVA+MVP版][5]
-[JAVA+MVVM版][5]
+[JAVA+MVP版][5]<br>
+[JAVA+MVVM版][6]
 
 组件化+MVVM+DataBinding框架为基础,整合Retrofit2、RxJava2、Rxlifecycle2、LiveData、Glide、ARouter、等流行模块,
 为项目基础框架而搭建。
