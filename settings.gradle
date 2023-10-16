@@ -16,7 +16,7 @@ dependencyResolutionManagement {
         maven { url "https://jitpack.io" }
     }
 }
-rootProject.name = "MVVMComponentization"
+rootProject.name = "MVVMComDesignKt"
 include ':app'
 include ':library-common'
 include ':library-commonres'
